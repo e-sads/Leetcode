@@ -1,2 +1,2 @@
-# Leetcode
-Codes given for all leetcode problems that I have completed
+# Collective codes given for all leetcode problems that I have completed
+
